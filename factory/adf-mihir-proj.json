@@ -1,0 +1,15 @@
+{
+	"name": "adf-mihir-proj",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "572ea09a-91b7-407f-a953-2f248586da88",
+		"tenantId": "5d5a5ad9-1f4f-4147-91f4-34400b811cdd"
+	}
+}
